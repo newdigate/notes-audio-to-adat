@@ -7,6 +7,9 @@
 
 # optical connectors
 * TORX147 optical receiver
+* PLR135/T10
+  * PLR135 Series 2.4 to 5.5 V 16 Mbps 650 nm Photolink Fiber Optic Receiver
+    * [snapEDA](https://www.snapeda.com/parts/PLR135/T10/Everlight%20Electronics%20Co%20Ltd/view-part/?ref=search&t=PLR135)
 
 # micro-controllers
 * xmos
