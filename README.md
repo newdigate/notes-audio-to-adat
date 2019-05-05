@@ -9,7 +9,12 @@
 ## wavefront 
 * AL1401A
  * [datasheet](http://pdf.datasheetcatalog.com/datasheets2/15/156040_1.pdf)
+
+# ADC
+* Cirrus Logic 
+  * CS5368-CQZ [datasheet](http://datasheet.octopart.com/CS5368-CQZ-Cirrus-Logic-datasheet-13402503.pdf)
  
+
 # optical connectors
 * TORX147 optical receiver
 * PLR135/T10
@@ -18,6 +23,11 @@
 * Toshiba TOTX173
   * [octopart](https://octopart.com/totx173-toshiba-2173863?r=sp&s=UF4sqbTzTXCrdWtcyLfNBw)
   
+# logic level converters
+* AL1401A uses 5V logic, 3v3 to 5v required
+* Texas Instruments 
+  * CD40109BNSRG4 [datasheet](https://octopart.com/click/track?ct=datasheets&hlid=24875070&ppid=7109542&sid=370&sig=0583e53)
+
 # micro-controllers
 * xmos
   * XE216-512-TQ128-C20 (	digikey £12.43)
