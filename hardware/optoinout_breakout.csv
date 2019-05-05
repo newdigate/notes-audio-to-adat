@@ -1,0 +1,10 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"PACKAGE";"PRICE";
+"4";"";"PINHD-1X6";"1X06";"JP1, JP2, JP3, JP4";"PIN HEADER";"";"";"";"";"";"";
+"8";"100K";"R-US_R1206";"R1206";"SI1:R1, SI1:R3, SI2:R1, SI2:R3, SI3:R1, SI3:R3, SI4:R1, SI4:R3";"RESISTOR, American symbol";"";"";"";"";"";"";
+"2";"100nF";"C-EUC1206";"C1206";"C1, C3";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"8";"10uF";"C-EUC1206";"C1206";"SI1:C1, SI1:C2, SI2:C1, SI2:C2, SI3:C1, SI3:C2, SI4:C1, SI4:C2";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"8";"150";"R-US_R1206";"R1206";"SI1:R2, SI1:R4, SI2:R2, SI2:R4, SI3:R2, SI3:R4, SI4:R2, SI4:R4";"RESISTOR, American symbol";"";"";"";"";"";"";
+"8";"2700pF";"C-EUC1206";"C1206";"SI1:C3, SI1:C4, SI2:C3, SI2:C4, SI3:C3, SI3:C4, SI4:C3, SI4:C4";"CAPACITOR, European symbol";"";"";"";"";"";"";
+"1";"470R 500mA";"EXC3BPL0805";"L0805";"L1";"Chip Bead Core";"";"";"";"";"";"";
+"4";"ACJS-MV-5";"ACJS-MV-5";"ACJS-MV5";"SI1:U$3, SI2:U$3, SI3:U$3, SI4:U$3";"";"";"";"";"";"";"";
+"1";"PLT133-T10W";"PLT133-T10W";"PLR135-T10_PLT133-T10W";"U$1";"Photo-link Light Transmitter Unit";"Unavailable";" PLT133 Series 2.7 - 5.5 V 16 Mbps 5.5 mA 680 nm Photo-Link Light Transmitter ";"Everlight Electronics";"PLT133/T10W";"DIP-5 Everlight";"None";
