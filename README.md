@@ -27,6 +27,7 @@
 * AL1401A uses 5V logic, 3v3 to 5v required
 * Texas Instruments 
   * CD40109BNSRG4 [datasheet](https://octopart.com/click/track?ct=datasheets&hlid=24875070&ppid=7109542&sid=370&sig=0583e53)
+* The output signal of the AL1401 (i.e. to the fibre-optic LED) is ~0.9V, which needs to be converted to  between 2.5V and 5V5.
 
 # micro-controllers
 * xmos
